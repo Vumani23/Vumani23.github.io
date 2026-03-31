@@ -27,6 +27,6 @@ CV and Digital interview
 ---
 **MockInterview**
 
- [Link Text](https://vumani23.github.io/Vumane_Kamanga_MockInterview.mp4)
+ [Vumane_Kamanga_MockInterview.mp4](https://vumani23.github.io/Vumane_Kamanga_MockInterview.mp4)
 
 
