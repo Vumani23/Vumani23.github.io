@@ -30,6 +30,6 @@ CV and Digital interview
 
 
 
-<a id='ssFeatures'>https://vumani23.github.io/Vumane_Kamanga_MockInterview.mp4</a>
+https://vumani23.github.io/Vumane_Kamanga_MockInterview.mp4
 
 
