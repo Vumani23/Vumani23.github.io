@@ -1,0 +1,1 @@
+Portfolio ready to upload to GitHub Pages. Upload all files and the evidence folder to the repository root. CV and MP4 are included. Open index.html or visit the GitHub Pages site.\n
